@@ -1,0 +1,15 @@
+.card .map-container {
+  height: 150px; /* Ajusta esta altura según sea necesario */
+}
+
+.card .map-container {
+  overflow: hidden;
+}
+.card {
+  position: relative;
+}
+
+.card-body {
+  padding-top: 10px; /* Ajusta según sea necesario */
+}
+
