@@ -24,6 +24,7 @@ export class MiniMapComponent {
       interactive: false
     });
 
+
     new Marker()
       .setLngLat( this.lngLat )
       .addTo( map )
